@@ -35,3 +35,4 @@ npm run test:coverage
 - Branches: 100%.
 - Functions: 100%.
 - Lines: 100%.
+![alt text](image-1.png)
